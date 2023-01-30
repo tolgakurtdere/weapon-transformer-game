@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: da01f34e9f41c7b42bceb7c1033185e0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bringme
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 735a3c800d9dafb44bebc3f8211efc69, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
